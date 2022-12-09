@@ -1,0 +1,1 @@
+hello this is a sample document that i have created to understand how and why git is necessary.
